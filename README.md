@@ -2,7 +2,7 @@
 
 ## Features
 
-* support basic operations
+* supports basic operations
 * memory function
 * logs operations into an expandable side panel
 
